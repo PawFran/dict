@@ -1,0 +1,41 @@
+import json
+import random
+import sys
+
+
+def equals_modulo_case_and_unicode(str1, str2):
+	def replace_unicode(s):
+		return s.replace('ā', 'a').replace('ē', 'e').replace('ō', 'o').replace('ū', 'u').replace('ī', 'i')
+	return replace_unicode(str1.lower()) == replace_unicode(str2.lower())
+
+
+def weak_contains(lst, x):
+	# ex. declensions_to_include = ['third'] and possible declensions are 'third consonant', 'third vowel' etc.
+	return any([s in x for s in lst])
+
+
+declensions_to_include = sys.argv[1:]
+
+file = open("declension.json")
+dec_raw = json.load(file)
+
+if len(declensions_to_include) == 0:
+	dec = dec_raw
+else:
+	dec = {base_word: dec_raw[base_word] for base_word in dec_raw.keys() if weak_contains(declensions_to_include, list(dec_raw[base_word].keys())[0])}
+
+while(True):
+	base_word = random.choice(list(dec.keys()))
+	declension_number = random.choice(list(dec[base_word]))
+	genre = random.choice(list(dec[base_word][declension_number]))
+	number = random.choice(list(dec[base_word][declension_number][genre].keys()))
+	case = random.choice(list(dec[base_word][declension_number][genre][number].keys()))
+
+	print('{}: {} {}'.format(base_word, case, number)) 
+	answer = input("")
+	correct_answer = dec[base_word][declension_number][genre][number][case]
+	if equals_modulo_case_and_unicode(correct_answer, answer):
+		print("correct")
+	else:
+		print("wrong. correct answer is {}".format(correct_answer))
+	input("")

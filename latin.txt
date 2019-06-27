@@ -1,0 +1,533 @@
+lepidus, a, um [adj]
+1. uroczy, zachwycający
+2. dowcipny, wykwintny
+
+acerbus, a, um [adj]
+1. kwaśny, cierpki, gorzki
+2. zgrzytliwy
+3. (o stylu) chropowaty, surowy
+4. niedojrzały, nieukończony
+5. przedwczesny
+
+profugus, a, um [adj]
+1. uciekający, wygnany
+
+maneō, ēre, sī, sum [verb] [II]
+1. tkwić
+2. kwaterować, nocować
+3. czekać
+
+ostendō, ere, dī, tum(sum) [verb] [III]
+1. pokazywać, ujawniać
+2. wyjawiać
+3. dowodzić (czegoś)
+
+parātus, a, um [adj]
+1. osiągalny, dostępny, będący pod ręką
+2. przygotowany, gotowy
+
+florens, ntis [adj]
+1. kwitnący, kwiecisty
+2. młody, sławny, silny
+3. mieniący się barwami
+
+insignis, e [adj]
+1. widoczny, rzucający się w oczy
+2. godny uwagi
+3. wybitny
+
+turris, is [noun] [III mixed] [f]
+1. wieża
+
+equitātus, ūs [noun] [IV] [m]
+1. jeździectwo
+2. konnica
+3. stan ekwitów
+
+flōreō, ēre, ruī [verb] [II]
+1. kwitnąć, być pokrytym kwiatami
+2. zażywać pomyślności, być w rozkwicie
+3. lśnić
+
+insigne, is [noun] [III mixed] [n]
+1. odznaka, znak, wyróżnienie, godło
+2. symbol, dowód, cecha charakterystyczna
+
+satiō, āre, āvī, ātum [verb] [I]
+1. zaspokoić
+2. całkowicie wypełniać
+3. przesycić
+
+omnia, ium [noun] [III vowel] [n] [pl]
+1. wszystko, całość
+
+satis [adj] 
+1. wystarczający
+
+satis [adv]
+1. wystarczająco
+2. zupełnie, całkiem
+
+rīdeō, ēre, rīsī, rīsum [verb] [II]
+1. śmiać się
+2. wyśmiewać, lekceważyć
+
+avārus, a, um [adj]
+1. chciwy
+2. skąpy
+
+sī [conj]
+1. jeśli, gdyby
+2. nawet jeśli
+3. na wypadek gdyby
+
+etiam [conj]
+1. jeszcze, nawet, tylko
+2. także, poza tym
+
+sentiō, īre, sī, sum [verb] [IV] 
+1. spostrzegać
+2. rozumieć, poznawać
+3. doświadczać
+4. uważać (kogoś za coś)
+5. sądzić (coś o czymś)
+6. zamierzać, mieć na myśli
+7. wyrażać opinię
+8. głosować
+
+ornātus, ūs [noun] [IV] [m]
+1. wyposażenie
+2. ozdoba
+
+praeda, ae [noun] [I] [f]
+1. zdobycz
+2. grabież
+
+ignāvia, ae [noun] [I] [f]
+1. gnuśność, opieszałość, tchórzostwo
+
+ignāvus, a, um [adj] 
+1. leniwy
+2. tchórzliwy, lichy, bezużyteczny
+
+imbellis, e [adj]
+1. pokojowy, spokojny
+
+mīles, itis [noun] [III consonant] [m]
+1. żołnierz
+2. piechur
+
+imbellia, ae [noun] [I] [f]
+1. brak wojowniczości
+
+exiguum, ī [noun] [II] [n]
+1. mała ilość, mało
+
+superō, āre, āvī, ātum [verb] [I]
+1. przebywać, pokonywać (przeszkodę), mijać
+2. przewyższać
+3. zwyciężać
+4. przetrwać
+
+hostis, is [noun] [III mixed] [m, f]
+1. obcy przybysz
+2. wróg
+
+possum, posse, potuī [verb]
+1. móc, być w stanie
+2. mieć prawo (do czegoś)
+
+hospes, itis [noun] [III consonant] [m]
+1. gość, obcy
+2. gospodarz
+
+perfidus, a, um [adj]
+1. wiarołomny, zdradliwy
+
+anteā [adv]
+1. w przeszłości, przedtem
+
+faciō, ere, fēcī, factum [verb] [III]
+1. robić
+2. stwarzać, czynić
+
+prōsum, prōdesse, prōfūi, part fut prōfutūrus [verb]
+1. pomagać, być pomocnym
+
+vocō, āre, āvī, ātum [verb] [I]
+1. wołać
+2. nazywać
+
+amīcitia, ae [noun] [I] [f]
+1. przyjaźń
+
+mons, tis [noun] [III mixed] [m]
+1. góra
+2. mnóstwo
+
+iter, is [noun] [III consonant] [n]
+1. droga
+2. podróż
+3. ~facere wyruszyć w drogę
+
+subito [adv]
+1. nagle
+
+ursus, ī [noun] [II] [m]
+1. niedźwiedź
+
+ursa, ae [noun] [I] [f]
+1. niedźwiedzica
+
+appropinquō, āre, āvī, ātum [verb] [I]
+1. nadchodzić, zbliżać się + dat
+
+procul [adv]
+1. nieco dalej, z boku
+2. daleko
+
+conspiciō, ere, spexī, spectum [verb] [III]
+1. patrzeć, spostrzegać
+
+tum [adv]
+1. wtedy
+
+alter, a, um [adj]
+1. drugi, inny, następny
+
+celer, is, e [adj]
+1. szybki
+2. zwinny
+3. pospieszny
+
+arbor, is [noun] [III consonant] [f]
+1. drzewo
+2. pal, maszt okrętu, wiosło
+
+ascendō, ere, dī, sum [verb] [III]
+1. wchodzić (na coś)
+2. podnosić się, zostać wyniesionym (na coś, do czegoś)
+
+certus, a, um [adj]
+1. ustalony, dokładny
+2. pewien, określony
+3. wiarygodny, nieunikniony
+
+ante [adv]
+1. na przedzie
+
+ante [prep]
+1. przed + acc
+
+oculus, ī [noun] [II] [m]
+1. oko
+
+celeriter [adv]
+1. szybko
+
+relictus, a, um [adj]
+1. opuszczony, zaniedbany
+
+habeō, ēre, buī, bitum [verb] [II]
+1. mieć
+2. pociągać za sobą, powodować
+3. być przedmiotem (czegoś), być narażonym (na coś)
+4. mieszkać, żyć
+5. być (w jakimś położeniu)
+
+attingō, ere, tigī, tāctum [verb] [III]
+1. dotykać
+2. wspominać (o czymś)
+3. graniczyć (z czymś)
+4. powierzchownie studiować (coś)
+
+corpus, oris [noun] [III consonant] [n]
+1. ciało
+2. zwłoki
+3. mięso
+4. tułów
+5. treść
+
+mens, tis [noun] [III mixed] [f]
+1. umysł, rozum, myśl
+2. rozsądek
+
+veniō, īre, vēnī, ventum [verb] [IV]
+1. zbliżać się, przybywać
+
+mortuus, a, um [adj]
+1. martwy, nieprzytomny
+2. miniony
+
+itaque [adv]
+1. tak więc, zatem
+2. tak oto
+
+humus, ī [noun] [II], [f]
+1. ziemia
+2. humi - na ziemi
+
+prōsternō, ere, stravī, strātum [verb] [III]
+1. powalać na ziemię, zrównywać z ziemią
+2. całkowicie pokonać
+
+spīritus, ūs [noun] [IV] [m]
+1. oddychanie, westchnienie
+2. powietrze
+3. dusza
+4. natchnienie
+
+contineō, ēre, tinuī, tentum [verb] [II]
+1. łączyć
+2. utrzymywać w całości
+3. powstrzymywać
+
+iaceō, ēre, uī, itum [verb] [II]
+1. leżeć
+2. leżeć na ziemi
+3. leżeć martwym
+
+temptō, āre, āvī, ātum [verb] [I]
+1. dotykać
+2. sprawdzać
+
+dēnique [adv]
+1. w końcu
+2. reasumując
+3. przynajmniej
+
+discēdō, ere, discessī, discessum [verb] [III]
+1. rozchodzić się, odchodzić
+
+intactus, a, um [adj]
+1. nietykalny
+
+iuvenis, is [noun], [III consonant] [m, f]
+1. młodzieniec
+
+iuvenis, e [adj]
+1. młody
+
+iocus, ī [noun] [II] [m]
+1. żart
+2. pośmiewisko
+3. błahostka
+
+insussurō, āre, āvī, ātum [verb] [I]
+1. szeptać
+
+auris, is [noun] [III mixed] [f]
+1. ucho
+
+prōverbium, iī [noun] [II] [n]
+1. przysłowie
+
+nōtus, a, um [adj]
+1. znany
+
+cernō, ere, crēvī, crētum [verb] [II]
+1. spostrzegać
+2. rozpoznać
+3. odróżniać
+
+necesse [adj] [nom, acc] [non inflectable]
+1. konieczny
+2. nieunikniony
+
+nāvīgō, āre, āvī, ātum [ver] [I]
+1. żeglować
+
+aliquandō [adv]
+1. niegdyś
+2. pewnego razu
+
+frūmentum, ī [noun] [II] [n]
+1. zboże
+
+inopia, ae [noun] [I] [f]
+1. bieda
+2. brak, niedobór
+
+in [prep] 
+1. do (+ acc)
+2. w (+ abl)
+
+studeō, ēre, duī [verb] [II]
+1. uczyć się
+2. zajmować się, starać się
+3. interesować się
+
+advehō, ere, vēxī, vectum [verb] [III]
+1. przewozić
+2. przywozić, dowozić
+
+unde [adv] 
+1. skąd (+ abl)
+
+iam [adv]
+1. już
+2. nawet
+
+navis, is [noun] [III mixed] [f]
+1. statek
+
+onustus, a, um [adj]
+1. zaladowany
+
+prohibeō, ēre, buī, bitum [verb] [II]
+1. powstrzymywać
+
+soluō, ere, solvī, solūtum [verb] [III]
+1. rozwiązywać
+2. uwalniać
+
+tempestās, atis [noun] [III consonant] [f]
+1. burza
+2. pogoda
+
+cum [prep]
+1. z
+
+cum [adv]
+1. wtedy, skoro, tylko, kiedy
+
+turbātus, a, um [adj]
+1. niespokojny, burzliwy
+
+timeō, ēre, uī [verb] [II]
+1. bać się
+
+mare, is [noun] [III vowel]
+1. morze
+
+relinquō, ere, uī, lictum [verb] [III]
+1. zostawić, pozostawić
+
+confugio, ere, ugi [verb] [III]
+1. uciekać
+
+portus, ūs [noun] [IV] [m]
+1. port
+2. schronienie
+
+iactātiō, ōnis [noun] [III consonant]
+1. wstrząsanie, kołysanie
+2. chełpliwość
+
+iactātus, ūs [noun] [IV]
+1. wstrząsanie, kołysanie
+2. chełpliwość
+
+tropaeum, i [noun] [II]
+1. trofeum
+2. zwycięstwo
+
+pugnō, āre, āvī, ātum [verb] [I]
+1. walczyć
+
+locus, i [noun] [II]
+1. miejsce
+
+prōdie [adv]
+1. dzień wcześniej
+
+pōnō, ere, suī, positum [verb] [III]
+1. kłaść, umieszczać
+2. grzebać
+
+avus, i [noun] [II] [m]
+1. dziadek
+
+ad [prep] [+ acc]
+1. do
+2. pod
+
+dēficiō, ere, fēcī, fectum [verb] [III]
+1. kończyś się
+2. odstąpić
+3. słabnąć
+4. umierać
+
+mōs, mōris [noun] [III consonant]
+1. zwyczaj
+
+aut [conj]
+1. lub
+
+pecūnia, ae [noun] [I] [f]
+1. pieniądz
+
+honor, ōris [noun] [III consonant] [m]
+1. zaszczyt
+2. szacunek
+3. godność
+
+vel [adv, conj]
+1. czyli, albo
+
+singulus, a, um [adj]
+1. pojedynczy
+
+laus, laudis [noun] [III consonant] [f]
+1. chwała
+2. pochwała
+3. zasługa, zaleta
+
+antīquus, a, um [adj]
+1. leżący na przedzie
+2. dawny
+3. tradycyjny
+
+ornō, āre, āvī, ātum [verb] [I]
+1. urządzać
+2. zaopatrywać
+3. ubierać
+4. wyróżniać
+
+singulī, ōrum [noun] [II] [m] [pl]
+1. ludzie pojedynczy
+
+singula, orūm [noun] [II] [n] [pl]
+1. szczegóły
+
+revocō, āre, āvī, ātum [verb] [I]
+1. odwoływać
+2. odnawiać
+
+fīnis, is [noun] [III mixed] [m, f]
+1. granica
+2. terytorium (pl)
+3. kres
+4. definicja
+
+occurrō, ere, (cu)currī, cursum [verb] [III]
+1. biec na przeciw (komuś), spieszyć z pomocą (czemuś)
+2. pojawiać się
+3. stawiać czoło
+
+quaerō, ere, sīvī, sītum [verb] [III] 
+1. szukać
+2. pytać, prosić
+
+via, ae [noun] [I] [f]
+1. droga
+
+aliquis, qua, quid [adj]
+1. ktoś
+2. niektórzy (pl)
+3. jacyś (pl)
+
+ex [prep]
+1. z, od
+
+sēmantis, is [noun] [III mixed] [f]
+1. siew, zasiew
+2. zboże
+
+ut (utī) [adv]
+1. w jakiś sposób
+2. (tak) jak
+
+item [adv]
+1. tak samo
+2. ponadto
