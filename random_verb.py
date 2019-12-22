@@ -13,7 +13,7 @@ import copy
 # in the future use maybe n-dimensional array rather than dictionary 
 
 def equals_modulo_case_and_unicode(str1, str2):
-	def replace_unicode(s):ss
+	def replace_unicode(s):
 		return s.replace('ā', 'a').replace('ē', 'e').replace('ō', 'o').replace('ū', 'u').replace('ī', 'i')
 	return replace_unicode(str1.lower()) == replace_unicode(str2.lower())
 
@@ -21,6 +21,10 @@ def equals_modulo_case_and_unicode(str1, str2):
 args = sys.argv[1:]
 
 conjugations_to_include = []
+moods_to_include = []
+tenses_to_include = []
+voices_to_include = []
+
 if len(args) > 0:
 	args_parsed = [x for x in ' '.join(args).split('-') if len(x) > 0]
 	# ex. ['c first fourth ', 'm indicativus ', 't praesens ', 'v activus']
@@ -41,8 +45,8 @@ file = open("conjugation.json")
 con_raw = json.load(file)
 
 con = con_raw
+con_with_conjugations_removed = {}
 if len(conjugations_to_include) > 0:
-	con_with_conjugations_removed = {}
 	for base_word in con_raw.keys():
 	    for con_number in con_raw[base_word].keys():
 	    	if con_number in conjugations_to_include:

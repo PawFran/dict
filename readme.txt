@@ -6,4 +6,5 @@
 # possible: first second 'third mixed' 'third consonant' 'third vowel' 'fourth' 'fifth'
 
 # random_verb.py
-# ex. python test.py -c first second -m indicativus -t praesens -v activus
+# ex. python random_verb.py -c first second -m indicativus -t praesens -v activus
+
