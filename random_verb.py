@@ -4,6 +4,7 @@ import sys
 import copy
 
 # todo accent in verb dict
+# flag -a indicating all possibilities (no filtering tenses etc.)
 # moods to include
 # tenses to include
 # map different inputs ex. both 'activus' and 'active' should be understood
@@ -71,7 +72,7 @@ if len(tenses_to_include) > 0:
 	for base_word in con.keys():
 		for con_number in con[base_word].keys():
 			for mood in con[base_word][con_number].keys():
-				for tense in on[base_word][con_number][mood].keys():
+				for tense in con[base_word][con_number][mood].keys():
 					if tense not in tenses_to_include:
 						del con_with_moods_removed[base_word][con_number][mood][tense]
 	
