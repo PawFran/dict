@@ -73,7 +73,7 @@ if len(tenses_to_include) > 0:
 			for mood in con[base_word][con_number].keys():
 				for tense in con[base_word][con_number][mood].keys():
 					if tense not in tenses_to_include:
-						del con_with_moods_removed[base_word][con_number][mood][tense]
+						del con_with_tenses_removed[base_word][con_number][mood][tense]
 	con = con_with_tenses_removed
 	
 while(True):
