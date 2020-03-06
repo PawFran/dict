@@ -75,6 +75,18 @@ if len(tenses_to_include) > 0:
 					if tense not in tenses_to_include:
 						del con_with_tenses_removed[base_word][con_number][mood][tense]
 	con = con_with_tenses_removed
+
+### remove voices not from the list
+if len(voices_to_include) > 0:
+	con_with_voices_removed = copy.deepcopy(con)
+	for base_word in con.keys():
+		for con_number in con[base_word].keys():
+			for mood in con[base_word][con_number].keys():
+				for tense in con[base_word][con_number][mood].keys():
+					for voice in con[base_word][con_number][mood][tense].keys():
+						if voice not in voices_to_include:
+							del con_with_voices_removed[base_word][con_number][mood][tense][voice]
+	con = con_with_voices_removed
 	
 while(True):
 	base_word = random.choice(list(con.keys()))
