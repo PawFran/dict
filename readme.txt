@@ -5,6 +5,7 @@
 # should be run like 'python declension.py' optionally followed by list of declensions to include ex. 'python declension.py first third mixed'
 # possible: first second 'third mixed' 'third consonant' 'third vowel' 'fourth' 'fifth'
 
-# random_verb.py
-# ex. python random_verb.py -c first second -m indicativus -t praesens -v activus
+# conjugation.py
+# ex. python conjugation.py -c first second -m indicativus -t praesens -v activus
+# if no 'to include' is defined that all possibilities are included ex. python conjugation.py -t praesens will use all conjugations and time praesens
 
