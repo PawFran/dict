@@ -4,10 +4,7 @@ import sys
 import copy
 
 # todo accent in verb dict
-# flag -a indicating all possibilities (no filtering tenses etc.)
-# add all as arg indicating that all possibilities should be included ex. -c all -m indicativus
-# moods to include
-# tenses to include
+# not all combinations are possible - ex. for imperativus. how to handle it ?
 # map different inputs ex. both 'activus' and 'active' should be understood
 
 # todo method nth level key contains
