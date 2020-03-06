@@ -286,3 +286,12 @@ intrinsic [adj]
 
 endow [verb]
 1. to give a large amount of money to pay for creating a college, hospital, etc. or to provide an income for it
+
+gullible [adj]
+1. easily deceived or tricked, and too willing to believe everything that other people say
+
+dismay [noun]
+1. a feeling of unhappiness and disappointment
+
+imbue something/someone with something [verb]
+1. to fill something or someone with a quality or feeling
