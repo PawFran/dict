@@ -56,7 +56,6 @@ lines_raw = open(file_name, "r").readlines()
 lines = [line.strip() for line in lines_raw if len(line.rstrip()) > 0]
 
 dict = parse_dict(lines, int(start), int(end))
-print (dict)
 
 while(True):
 	word = random.choice(list(dict.keys()))
