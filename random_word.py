@@ -9,9 +9,6 @@ import re
 # filter out lines starting with '#'
 
 def parse_dict(lines, start=None, end=None):
-
-	print (start)
-	print(end)
 	dict = {}
 
 	current_key = None
