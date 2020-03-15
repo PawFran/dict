@@ -1,5 +1,5 @@
 {
-  "laudo, laudare, laudavi, laudatus": {
+  "laudo, laudare, laudavi, laudatum": {
     "first": {
       "indicativus": {
         "praesens": {
@@ -181,7 +181,7 @@
       }
     }
   },
-  "moneo, monere, monui, monitus": {
+  "moneo, monere, monui, monitum": {
     "second": {
       "indicativus": {
         "praesens": {
@@ -363,7 +363,7 @@
       }
     }
   },
-  "lego, legere, legi, lectus": {
+  "lego, legere, legi, lectum": {
     "third": {
       "indicativus": {
         "praesens": {
@@ -545,7 +545,7 @@
       }
     }
   },
-  "capio, capere, cepi, captus": {
+  "capio, capere, cepi, captum": {
     "third": {
       "indicativus": {
         "praesens": {
@@ -727,7 +727,7 @@
       }
     }
   },
-  "audio, audire, audivi, auditus": {
+  "audio, audire, audivi, auditum": {
     "fourth": {
       "indicativus": {
         "praesens": {
