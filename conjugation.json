@@ -95,14 +95,14 @@
           },
           "passivus": {
             "singularis": {
-              "first": "laudavus sum",
-              "second": "laudavus es",
-              "third": "laudavus est"
+              "first": "laudatus sum",
+              "second": "laudatus es",
+              "third": "laudatus est"
             },
             "pluralis": {
-              "first": "laudavus sumus",
-              "second": "laudavus estis",
-              "third": "laudavus sunt"
+              "first": "laudati sumus",
+              "second": "laudati estis",
+              "third": "laudati sunt"
             }
           }
         }, 
@@ -121,14 +121,14 @@
           },
           "passivus": {
             "singularis": {
-              "first": "laudavus eram",
-              "second": "laudavus eras",
-              "third": "laudavus erat"
+              "first": "laudatus eram",
+              "second": "laudatus eras",
+              "third": "laudatus erat"
             },
             "pluralis": {
-              "first": "laudavus eramus",
-              "second": "laudavus eratis",
-              "third": "laudavus erant"
+              "first": "laudati eramus",
+              "second": "laudati eratis",
+              "third": "laudati erant"
             }
           }
         }, 
@@ -147,14 +147,14 @@
           },
           "passivus": {
             "singularis": {
-              "first": "laudavus ero",
-              "second": "laudavus eris",
-              "third": "laudavus erit"
+              "first": "laudatus ero",
+              "second": "laudatus eris",
+              "third": "laudatus erit"
             },
             "pluralis": {
-              "first": "laudavus erimus",
-              "second": "laudavus eritis",
-              "third": "laudavus erunt"
+              "first": "laudati erimus",
+              "second": "laudati eritis",
+              "third": "laudati erunt"
             }
           }
         }
@@ -277,14 +277,14 @@
           },
           "passivus": {
             "singularis": {
-              "first": "monitus sum",
-              "second": "monitus es",
-              "third": "monitus est"
+              "first": "moniti sum",
+              "second": "moniti es",
+              "third": "moniti est"
             },
             "pluralis": {
-              "first": "monitus sumus",
-              "second": "monitus estis",
-              "third": "monitus sunt"
+              "first": "moniti sumus",
+              "second": "moniti estis",
+              "third": "moniti sunt"
             }
           }
         },
@@ -308,9 +308,9 @@
               "third": "monitus erat"
             },
             "pluralis": {
-              "first": "monitus eramus",
-              "second": "monitus eratis",
-              "third": "monitus erant"
+              "first": "moniti eramus",
+              "second": "moniti eratis",
+              "third": "moniti erant"
             }
           }
         },
@@ -334,9 +334,9 @@
               "third": "monitus erit"
             },
             "pluralis": {
-              "first": "monitus erimus",
-              "second": "monitus eritis",
-              "third": "monitus erunt"
+              "first": "moniti erimus",
+              "second": "moniti eritis",
+              "third": "moniti erunt"
             }
           }
         }
@@ -464,9 +464,9 @@
               "third": "lectus et"
             },
             "pluralis": {
-              "first": "lectus sumus",
-              "second": "lectus estis",
-              "third": "lectus sunt"
+              "first": "lecti sumus",
+              "second": "lecti estis",
+              "third": "lecti sunt"
             }
           }
         },
@@ -490,9 +490,9 @@
               "third": "lectus erat"
             },
             "pluralis": {
-              "first": "lectus eramus",
-              "second": "lectus eratis",
-              "third": "lectus erant"
+              "first": "lecti eramus",
+              "second": "lecti eratis",
+              "third": "lecti erant"
             }
           }
         },
@@ -516,9 +516,9 @@
               "third": "lectus erit"
             },
             "pluralis": {
-              "first": "lectus erimus",
-              "second": "lectus eritis",
-              "third": "lectus erunt"
+              "first": "lecti erimus",
+              "second": "lecti eritis",
+              "third": "lecti erunt"
             }
           }
         }
@@ -646,9 +646,9 @@
               "third": "captus est"
             },
             "pluralis": {
-              "first": "captus sumus",
-              "second": "captus estis",
-              "third": "captus sunt"
+              "first": "capti sumus",
+              "second": "capti estis",
+              "third": "capti sunt"
             }
           }
         },
@@ -672,9 +672,9 @@
               "third": "captus erat"
             },
             "pluralis": {
-              "first": "captus eramus",
-              "second": "captus eratis",
-              "third": "captus erant"
+              "first": "capti eramus",
+              "second": "capti eratis",
+              "third": "capti erant"
             }
           }
         },
@@ -693,14 +693,14 @@
           },
           "passivus": {
             "singularis": {
-              "first": "captus ero",
-              "second": "captus eris",
-              "third": "captus erit"
+              "first": "capti ero",
+              "second": "capti eris",
+              "third": "capti erit"
             },
             "pluralis": {
-              "first": "captus erimus",
-              "second": "captus eritis",
-              "third": "captus erunt"
+              "first": "capti erimus",
+              "second": "capti eritis",
+              "third": "capti erunt"
             }
           }
         }
@@ -828,9 +828,9 @@
               "third": "auditus est"
             },
             "pluralis": {
-              "first": "auditus sumus",
-              "second": "auditus estis",
-              "third": "auditus sunt"
+              "first": "auditi sumus",
+              "second": "auditi estis",
+              "third": "auditi sunt"
             }
           }
         },
@@ -854,9 +854,9 @@
               "third": "auditus erat"
             },
             "pluralis": {
-              "first": "auditus eramus",
-              "second": "auditus eratis",
-              "third": "auditus erant"
+              "first": "auditi eramus",
+              "second": "auditi eratis",
+              "third": "auditi erant"
             }
           }
         },
@@ -880,9 +880,9 @@
               "third": "auditus erit"
             },
             "pluralis": {
-              "first": "auditus erimus",
-              "second": "auditus eritis",
-              "third": "auditus erunt"
+              "first": "auditi erimus",
+              "second": "auditi eritis",
+              "third": "auditi erunt"
             }
           }
         }
