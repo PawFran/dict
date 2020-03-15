@@ -89,9 +89,6 @@ while(True):
 	base_word = random.choice(list(con.keys()))
 	conjugation_number = random.choice(list(con[base_word]))
 	mood = random.choice(list(con[base_word][conjugation_number]))
-
-	print('word: {} con number: {} mood: {}'.format(base_word, conjugation_number, mood))
-
 	tense = random.choice(list(con[base_word][conjugation_number][mood].keys()))
 	voice = random.choice(list(con[base_word][conjugation_number][mood][tense].keys()))
 	number = random.choice(list(con[base_word][conjugation_number][mood][tense][voice].keys()))
