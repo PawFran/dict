@@ -3,6 +3,7 @@ import random
 import sys
 
 # todo change distribution during working - ex. base on correct / wrong answers or on what was sampled before 
+# todo remove nom singularis
 
 def equals_modulo_case_and_unicode(str1, str2):
 	def replace_unicode(s):

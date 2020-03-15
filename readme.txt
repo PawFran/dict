@@ -8,4 +8,5 @@
 # conjugation.py
 # ex. python conjugation.py -c first second -m indicativus -t praesens -v activus
 # if no 'to include' is defined that all possibilities are included ex. python conjugation.py -t praesens will use all conjugations and time praesens
+# right now to fully work one must set mode to 'indicativus' - because not all combinations ex. imperativus futurum I is possible
 

@@ -54,7 +54,7 @@
             }
           }
         }, 
-        "futurum I": {
+        "futurum_I": {
           "activus": {
             "singularis": {
               "first": "laudabo",
@@ -132,7 +132,7 @@
             }
           }
         }, 
-        "futurum II": {
+        "futurum_II": {
           "activus": {
             "singularis": {
               "first": "laudavero",
@@ -236,7 +236,7 @@
             }
           }
         }, 
-        "futurum I": {
+        "futurum_I": {
           "activus": {
             "singularis": {
               "first": "monebo",
@@ -314,7 +314,7 @@
             }
           }
         },
-        "futurum II": {
+        "futurum_II": {
           "activus": {
             "singularis": {
               "first": "monuero",
@@ -418,7 +418,7 @@
             }
           }
         }, 
-        "futurum I": {
+        "futurum_I": {
           "activus": {
             "singularis": {
               "first": "legam",
@@ -496,7 +496,7 @@
             }
           }
         },
-        "futurum II": {
+        "futurum_II": {
           "activus": {
             "singularis": {
               "first": "legero",
@@ -600,7 +600,7 @@
             }
           }
         }, 
-        "futurum I": {
+        "futurum_I": {
           "activus": {
             "singularis": {
               "first": "capiam",
@@ -678,7 +678,7 @@
             }
           }
         },
-        "futurum II": {
+        "futurum_II": {
           "activus": {
             "singularis": {
               "first": "cepero",
@@ -782,7 +782,7 @@
             }
           }
         }, 
-        "futurum I": {
+        "futurum_I": {
           "activus": {
             "singularis": {
               "first": "audiam",
@@ -860,7 +860,7 @@
             }
           }
         },
-        "futurum II": {
+        "futurum_II": {
           "activus": {
             "singularis": {
               "first": "audivero",
