@@ -12,3 +12,6 @@
 
 # count_words_in_latin_dict.sh
 # one argument - file name - if none then latin.txt
+
+# found_duplicates.sh
+# one argument - file name - if none then latin.txt
