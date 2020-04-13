@@ -10,8 +10,8 @@
 # if no 'to include' is defined that all possibilities are included ex. python conjugation.py -t praesens will use all conjugations and time praesens
 # right now to fully work one must set mode to 'indicativus' - because not all combinations ex. imperativus futurum I is possible
 
-# count_words_in_latin_dict.sh
+# count_words_in_dict.sh
 # one argument - file name - if none then latin.txt
 
-# found_duplicates.sh
+# found_duplicates_in_dict.sh
 # one argument - file name - if none then latin.txt
