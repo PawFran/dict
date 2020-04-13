@@ -1140,4 +1140,153 @@ obtineō, ēre, tinuī, tentum [verb] [II]
 3. mieć kontrolę wojskową (nad czymś)
 4. zajmować, pokrywać (miejce, pozycję)
 
+inīquus, a, um [adj]
+1. nierówny
+2. pagórkowaty, stromy
+3. nie dający równych praw, stronniczy, niesprawiedliwy
+
+cottīdiānus, a, um [adj]
+1. codzienny
+2. zwykły
+
+verber, ris [verb] [III consonant] [n]
+1. (zazw. pl) rózga, batog
+2. bat
+3. uderzenie
+4. (zazw pl) chłosta
+
+fuga, ae [noun] [I] [f]
+1. ucieczka
+2. wygnanie
+3. szybki ruch, szybki upływ (czasu)
+
+campus, ī [noun] [II] [m]
+1. równina, płaskie pole
+2. zgromadzenie wyborcze
+3. pole, sposobność (działania), dziedzina
+
+sōlitūdō, inis [noun] [III consonant] [f]
+1. samotność, opuszczenie
+2. pustka
+3. (często pl) bezludzie
+
+concedō, ere, cessī, cessum
+1. zgadzać się (na coś)
+2. oddawać, ustępować (kogoś, coś), rezygnować (z czegoś)
+3. poświęcać (czas na coś)
+4. pozwalać (komuś na coś)
+5. przyznawać rację
+
+arēna, ae [noun] [I] [f]
+1. = harena
+
+harēna, ae [noun] [I] [f]
+1. piasek, plaża
+2. pustynia
+3. arena
+
+specus, ūs [noun] [IV] [m]
+1. jaskinia, grota
+2. otchłań
+
+remōtus, a, um [adj]
+1. odsunięty, oddalony, daleki
+2. obcy, nie mający nic wspólnego
+3. trzymający się z dala
+
+inveniō, īre, vēnī, ventum [verb] [IV]
+1. spotykać, natrafiać (na kogoś, coś)
+2. odnajdywać
+3. odkrywać, poznawać (coś)
+4. wymyślać
+
+intrō, āre, āvī, ātum [verb] [I]
+1. wchodzić
+2. przenikać
+3. pozyskać (coś), opanować (coś)
+4. wejrzeć (w coś)
+
+intrō [adv]
+1. do wewnątrz
+2. wewnątrz
+
+cruentō, āre, āvī, ātum [verb] [I]
+1. splamić (krwią)
+2. ranić
+
+postquam [conj]
+1. kiedy, skoro
+2. odkąd
+3. ponieważ
+
+mītis, e [adj]
+1. słodki i soczysty
+2. łagodny
+3. miękki
+4. lekki, znośny
+5. łaskawy, uprzejmy, pokojowy
+
+ac [conj]
+1. = atque
+
+atque [conj]
+1. a nawet, a nadto
+2. i
+3. a
+4. otóż
+
+spīna, ae [noun] [I] [f]
+1. cierń, kolec
+2. kręgosłup, grzbiet
+
+ingēns, tis [adj]
+1. wielki
+2. niezliczony
+3. intensywny
+4. potężny
+
+revellō, ere, vellī, vulsum [verb] [III] 
+1. odrywać, zrywać, wyrywać
+
+saniēs, ēī [noun] [V] [f]
+1. posoka
+2. sok roślinny
+3. jad, trucizna
+
+vulnus, eris [noun] [III consonant] [n]
+1. rana
+2. uszkodzenie, obrażenie
+3. nieszczęście, strata
+
+exprimō, ere, pressī, pressum [verb] [III]
+1. ściskać, zgniatać, wyciskać
+2. unosić
+3. wymuszać
+
+sine [prep + abl]
+1. bez
+
+metus, ūs [noun] [IV] [m]
+1. strach
+2. respekt
+3. ryzyko, zagrożenie
+
+dētergeō, ēre, rsi, rsum [verb] [II]
+1. ścierać, ocierać
+2. zdzierać, ścinać
+3. czyścić, rozjaśniać
+
+cruor, ōris [noun] [III consonant] [m]
+1. krew z rany
+2. rozlew krwi
+
+tunc [adv]
+1. = tum
+
+tum [adv]
+1. wtedy
+2. w takim wypadku
+3. na to
+4. następnie
+
 
