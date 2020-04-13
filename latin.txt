@@ -560,4 +560,584 @@ dōnec [conj]
 2. następnie (tylko ind)
 3. aż
 
+sospes, itis [adj]
+1. zdrów
+
+numerō, āre, āvī, ātum [verb] [I]
+1. dodawać, liczyć
+2. wyliczać
+3. zaliczać
+
+nūbilus, a, um [adj]
+1. pochmurny
+2. smutny, trwożny
+
+cautus, a, um [adj]
+1. mający się na baczności, przezorny
+2. ubezpieczony
+
+famēs, is [noun] [III mixed] [f]
+1. głód
+2. żądza
+
+pānis, is [noun] [III consonant] [m]
+1. chleb (dosłownie i w przenośni)
+
+trādo, ere, idī, itum
+1. podawać, przekazywać, wręczać
+2. przedstawiać (kogoś komuś), relacjonować
+
+cīvitās, ātis [noun] [III consonant] [f]
+1. państwo, społeczeństwo
+2. miasto
+3. obywatelstwo, prawa obywatelskie
+
+patrimonium, iī [noun] [II] [m]
+1. ojcowizna
+
+parens, ntis [noun] [III consonant] [m,f]
+1. rodzic, ojciec, matka
+2. twórca, wynalazca
+3. przodek (zazwyczaj pl.)
+
+atque, ac [conj]
+1. a nawet
+2. a właściwie
+3. a
+4. po czym
+5. a jednak
+
+appellō (adp-), ere, pulī, pulsum [verb] [III]
+1. przygnać, przyprowadzać
+2. lądować (z okrętem), przybijać (dokądś)
+3. dopływać
+
+appellō (adp-), āre, āvī, ātum [verb] [I]
+1. odzywać się (do kogoś)
+2. zwracać się o pomoc
+3. odwoływać się, apelować
+4. nazywać (acc duplex)
+
+insania, ae [noun] [I] [f]
+1. szaleństwo
+2. wzburzenie, gwałtowność
+3. dziwactwo ekstrawagancja
+
+īra, ae [noun] [I] [f]
+1. gniew
+
+initium, iī [noun] [II] [n]
+1. (także pl) początek
+2. (także pl) przyczyna, geneza
+
+fidēlis, e [adj]
+1. wierny, niezawodny
+2. dokładny, ścisły
+
+marītus, a, um [adj]
+1. żonaty, zamężna
+2. małżeński
+
+marītus, i [noun] [II] [m]
+1. mąż
+
+marīta, ae [noun] [I] [f]
+1. żona
+
+marītī, ōtorum [noun] [II] [m] [pl]
+1. małżonkowie
+
+vir, ī [noun] [II] [m]
+1. mężczyzna
+2. małżonek
+
+fūnus, eris [noun] [III]
+1. pogrzeb
+2. trup
+
+indō, ere, didī, ditum [verb] [III]
+1. wkładać
+2. dawać (imię komuś)
+3. wpajać, wzbudzać
+
+ēbibō, ere, bibī, ibitum [verb] [III]
+1. wypijać, wchłaniać
+2. przepijać, roztrwaniać
+
+sepulchrum, ī [noun] [II] [n]
+1. grób, grobowiec
+2. pl zmarli
+
+quoque [adv]
+1. w ten sam sposób
+2. także, ponadto
+
+exstruō, ere, uxī, uctum
+1. układać stos
+2. budować
+
+memorābilis, e [adj]
+1. pamiętny
+
+absideō, ēre, sēdī, sessum [verb] [II]
+1. przesiadywać
+2. zajmować, nawiedzać
+3. oblegać, staczać
+4. pokrywać grubą warstwą
+
+oppugnō, āre, āvī, ātum [verb] [I]
+1. atakować
+
+situs, ūs [noun] [IV] [m]
+1. położenie
+2. struktura
+3. stagnacja
+4. pleśń
+
+aedēs (aedis), is [noun] [III mixed] [f]
+1. sing pokój, mieszkanie
+2. pl dom mieszkalny
+3. świątynia
+
+praesidium, iī [noun] [II] [n]
+1. osłona
+2. wsparcie
+3. środek zaradczy
+4. eskortam załoga
+5. forceta
+6. pełnienie zadań garnizonowych
+
+dēleō, ēre, evī, ētum [verb] [II]
+1. zmazywać, usuwać
+2. unicestwiać
+3. kończyć
+
+ignis, is [noun] [III mixed] [m]
+1. ogień, płomień
+2. blask
+
+parō, āre, āvī, ātum [verb] [I]
+1. dostarczać, przysparzać
+2. ustanawiać
+3. przygotowywać
+
+tum [adv]
+1. wtedy, wówczas
+2. poza tym
+
+ibī [adv]
+1. tam
+2. wtedy, wówczas
+
+imāgō, inis [noun] [III consonant] [f]
+1. podobizna
+2. odbicie
+3. wyobrażenie
+4. pozór, przedstawienie
+
+pictor, ōris [noun] [III consonant] [m]
+1. malarz
+
+illustris, e [adj]
+1. jasny
+2. sławny, świetny
+
+illustrō, āre, āvī, ātum [verb] [I]
+1. oświetlać, wyjaśniać
+2. uświetniać
+3. upiększać
+
+manus, ūs [noun] [IV] [f]
+1. ręka
+2. uderzenie
+3. włądza
+4. pismo
+
+factus, a, um [adj] 
+1. dokonany, uformowany
+
+dēsīderō, āre, āvī, ātum [verb] [I]
+1. pragnąć
+2. domagać się
+3. odczuwać brak
+
+incendium, iī [noun] [II] [n]
+1. ogień
+2. nieszczęście, zagłada
+
+incolumis, e [adj]
+1. nienaruszony
+
+potestās, ātis [noun] [III consonant] [f]
+1. władza
+2. urząd, uprawnienia
+3. możliwość, zdolność
+
+vincō, ere, vīcī, victum
+1. zwyciężać
+2. nakłaniać (kogoś do czegoś)
+3. przewyższać
+
+gerō, ere, gessī, gestum [verb] [III]
+1. nieść
+2. zawierać, rodzić
+3. okazywać
+4. grać rolę, wykonywać funkcję
+
+mortuus, a, um [adj]
+1. martwy, słaby, nieprzytomny
+2. miniony, skończony
+
+ex (prep + abl)
+1. z, od, poza (oddzielanie)
+2. z, zgodnie z, według (okoliczności)
+3. od (momentu), zaraz po
+4. z, ze strony, po stronie(kierunek)
+
+lēgātūs, ī [noun] [II] [m]
+1. poseł
+2. zastępca wodza
+
+ubī [adv]
+1. gdzie
+2. w związku z czym
+3. skoro
+
+dēsistō, ere, stiī, destitum [verb] [III]
+1. odstępować, zaniechać
+2. ustępować
+3. odchodzić
+
+oppugnātio, ōnis [noun] [III consonant] [f]
+1. atak, szturm
+
+parcō, ere, pepercī, parsum [verb] [III]
+1. oszczędząc, nie trwonić
+2. poniechać, powstrzymywać się od używania
+3. powstrzymywać się od wyrządzania krzywdy
+
+in [prep]
+1. do, na + acc
+2. w, o, wśród + abl
+3. podczas + abl
+
+extra [adv]
+1. na zewnątrz
+
+extra [prep]
+1. poza, ponad
+2. z wyjątkiem
+
+pulchritūdō, inis [noun] [III consonant] [f]
+1. piękność, atrakcyjność
+
+cur [adv]
+1. dlaczego, w jakim celu
+
+superō, āre, āvī, ātum [verb] [I]
+1. przechodzić, pokonywać (przeszkodę)
+2. przewyższać
+3. zwyciężać
+
+sīn [conj]
+1. jeśli, jednak
+2. lecz gdyby
+
+autem [conj]
+1. jeśli o mnie (ciebie i innych) chodzi
+2. natomiast, jednak, z drugiej strony
+3. mianowicie
+
+possum, pose, potuī
+1. móc, zdołać
+2. mieć prawo
+
+consīderō, āre, āvī, ātum
+1. przyglądać się, zauważać
+2. rozważać
+
+at [conj]
+1. ale
+2. a jednak
+3. a wtedy
+4. a w rzeczywistości
+5. tak ale
+
+artifex, icis [adj]
+1. zręczny, biegły
+2. doświadczony
+
+artifex, icis [noun] [III consonant] [m, f]
+1. uprawiający sztukę
+2. rzemieślnik
+3. artysta
+4. wynalazca
+
+mittō, ere, mīsī, missum [verb] [III]
+1. uwalniać, puszczać, porzucać
+2. puszczać wolno, rozwiązywać
+3. rezygnować
+4. wysyłać
+
+explōrō, āre, āvī, ātum [verb] [I]
+1. wybadywać, rozpoznawać
+2. wypróbowywać
+
+expugnō, āre, āvī, ātum [verb] [I]
+1. zdobywać atakiem, pokonywać w bitwie
+2. wtargnąć, złupić
+3. wymuszać
+
+plerusque, aque, umque [adj]
+1. liczny, w większości
+
+facilis, e [adj]
+1. łatwy
+2. uprzejmy, przystępny
+
+consilium, iī [noun] [II] [n]
+1. narada
+2. sugestia
+3. ciało obradujące
+
+initium, iī [noun] [II] [n]
+1. początek
+2. geneza
+
+initio [adv] 
+1. na początku
+
+iūcundus, a, um [adj]
+1. przyjemny, miły
+
+ōrāculum, ī [noun] [II] [n]
+1. wyrocznia
+2. przepowiednia
+
+plērusque, aque, umque [pronoun]
+1. większość
+
+posteā [adv]
+1. (o czasie) potem
+2. odtąd
+3. (o kolejności, hierarchii) później, dalej
+
+gravis, e [adj]
+1. ciężki
+2. obciążony
+3. ociężały
+
+salūto, āre, āvī, ātum [verb] [I]
+1. pozdrawiać
+2. odwiedzać z wyrazami szacunku
+
+ōrō, āre, āvī, ātum [verb] [I]
+1. prosić
+
+festus, a, um [adj]
+1. świąteczny
+
+festum, ī [noun] [II] [n]
+1. święto
+
+placeō, ēre, cuī, citum [verb] [II]
+1. podobać się
+2. zdajdować uznanie, wydawać się słusznym
+
+nam [conj]
+1. z pewnością
+2. ponieważ
+3. ponadto
+
+officium, iī [noun] [II] [n]
+1. służba
+2. grzeczność
+3. obowiązek
+4. praca
+5. stanowisko
+
+maneō, ēre, sī, sum [verb] [II]
+1. pozostawać na tym samym miejscu
+2. kwaterować
+3. czekać
+
+vēnātiō, ōnis [noun] [III consonant]
+1. polowanie
+2. zwierzyna, zdobycz
+
+dō, āre, dedī, datum
+1. dawać
+2. umożliwiać
+
+spectāc(u)lum, ī [noun] [II] [n]
+1. widok, widowisko, pokaz
+2. widownia
+
+ferus, a, um [adj]
+1. nieudomowiony, dziki
+2. okrutny
+
+corpus, oris [noun] [III consonant] [n]
+1. ciało
+2. zwłoki
+3. mięso
+4. tułów
+
+magnitūdō, inis [noun] [III consonant] [f]
+1. wielkość
+2. siła
+3. waga
+
+terribilis, e [adj]
+1. przerażający, straszny
+
+convertō, ere, vertī, versum [verb] [III]
+1. obracać, zwracać
+2. zmieniać
+3. tłumaczyć
+4. przystosowywać
+
+vox, cis [noun] [III consonant] [f]
+1. głos
+2. opinia, autorytet
+
+complūrēs, a (ia) [adj] [m] [pl]
+1. liczni, sporo (całkiem sporo)
+
+consulāris, e [adj]
+1. konsularny
+
+consulāris, is [noun] [III mixed] [m]
+1. namiestnik, były konsul
+
+pugna, ae [noun] [I] [f]
+1. walka
+2. bitwa
+3. konflikt
+
+intrōdūcō, ere, duxi, ductum [verb] [III]
+1. wprowadzać, umieszczać
+2. przedstawiać, przytaczać
+3. ustanawiać, zapoczątkowywać
+
+videō, ēre, vīdī, vīdum [verb] [II]
+1. widzieć, patrzeć
+2. zobaczyć się (z kimś)
+
+repente [adv]
+1. nagle, szybko
+
+constituō, ere, uī, ūtum [verb] [III]
+1. ustanawiać, rozmieszczać, osiedlać, wznosić
+2. zabezpieczać, organizować, utrwalać
+3. nakazywać
+4. uchwalać
+
+deinde [adv]
+1. później, następnie
+2. wobec tego
+3. odtąd
+
+sensim [adv]
+1. z wolna, stopniowo
+2. ostrożnie, na próbę
+
+tamquam [conj]
+1. tak jak
+2. jak gdyby, zarówno
+3. na przykład
+
+noscō (gnoscō), ere, nōvī, nōtum [verb] [III]
+1. (roz)poznawać, dowiadywać się
+2. bagać
+3. znać, wiedzieć
+4. być biegłym
+
+homō, inis [noun] [III consonant] [m]
+1. człowiek
+
+accēdō, ere, cessi, cessum [verb] [III]
+1. podchodzić, zbliżać się, wstępować
+2. sięgać, docierać, przenikać
+
+placīde [adv]
+1. spokojnie, stopniowo, łagodnie
+2. ugodowo
+
+cauda (cōda), ae [noun] [I] [f]
+1. ogon
+2. członek
+
+cānus, a, um [adj]
+1. biały, siwy
+2. stary
+
+crūs, ūris [noun] [III consonant] [n]
+1. noga, goleń
+
+moveō, ēere, movī, mōtum [verb] [II]
+1. poruszać się, posługiwać się
+2. przenosić
+
+lēniter [adv]
+1. delikatnie
+2. gładko
+3. z umiarem
+
+tangō, ere, tetīgī, tactum [verb] [III]
+1. dotykać
+2. graniczyć
+3. wzruszać
+
+admīrābilis, e [adj]
+1. dziwny, zdumiewający
+2. godny podziwy, wspaniały
+3. paradoksalny, sprzeczny z ogólną opinią
+
+mōs, mōris [noun] [III consonant] [m]
+1. zwyczaj
+2. (zazw. pl) moralność, obyczaje
+3. charakter
+4. życzliwość
+
+blanditia, ae [noun] [I] [f]
+1. (zazw. pl) zalecanie się, pochlebstwo, grzeczność
+2. wdzięk, urok
+3. przyjemność
+
+blanddimentum, ī [noun] [II] [n]
+1. = blanditia
+
+amissus, ūs [noun] [IV] [m]
+1. utrata
+
+recuperō, āre, āvī, ātum [verb] [I]
+1. odzyskać, dostać z powrotem (od kogoś)
+2. przywracać, ożywiać
+
+paul(l)ātim [adv]
+1. po trochu (kilku), stopniowo, po mału
+
+clāmor, ōris [noun] [III consonant] [m]
+1. głośny krzyk, wrzawa, alarm
+2. huk, echo, szum
+
+atrox, ōcis [adj]
+1. straszny, groźny
+2. krwawy, zacięty
+3. okrutny
+4. dziki
+
+mīrābilis, e [adj]
+1. zadziwiający, cudowny, niezwykły
+
+mīrus, a, um [adj]
+1. = mīrābilis
+
+obtineō, ēre, tinuī, tentum [verb] [II]
+1. utrzymywać, zachowywać, trwać (przy czymś)
+2. dzierżyć, sprawować 
+3. mieć kontrolę wojskową (nad czymś)
+4. zajmować, pokrywać (miejce, pozycję)
+
 
