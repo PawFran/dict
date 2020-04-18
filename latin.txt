@@ -961,11 +961,11 @@ maneō, ēre, sī, sum [verb] [II]
 2. kwaterować
 3. czekać
 
-vēnātiō, ōnis [noun] [III consonant]
+vēnātiō, ōnis [noun] [III consonant] [f]
 1. polowanie
 2. zwierzyna, zdobycz
 
-dō, āre, dedī, datum
+dō, āre, dedī, datum [verb] [I]
 1. dawać
 2. umożliwiać
 
@@ -1001,7 +1001,7 @@ vox, cis [noun] [III consonant] [f]
 1. głos
 2. opinia, autorytet
 
-complūrēs, a (ia) [adj] [m] [pl]
+complūrēs, a (ia) [adj] [pl]
 1. liczni, sporo (całkiem sporo)
 
 consulāris, e [adj]
@@ -1049,7 +1049,7 @@ tamquam [conj]
 
 noscō (gnoscō), ere, nōvī, nōtum [verb] [III]
 1. (roz)poznawać, dowiadywać się
-2. bagać
+2. badać
 3. znać, wiedzieć
 4. być biegłym
 
