@@ -8,7 +8,7 @@ import sys
 # filter out lines starting with '#'
 
 
-def parse_dict(lines, start=None, end=None):
+def parse_dict(lines, start, end):
 	dict = {}
 
 	current_key = None
@@ -33,6 +33,9 @@ def parse_dict(lines, start=None, end=None):
 				current_values = []
 			else:
 				current_values.append(line)
+		else:
+			if not line[0].isdigit():
+				current_element = current_element + 1
 
 	del dict[None]
 
