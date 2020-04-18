@@ -1266,6 +1266,7 @@ exprimō, ere, pressī, pressum [verb] [III]
 sine [prep + abl]
 1. bez
 
+
 metus, ūs [noun] [IV] [m]
 1. strach
 2. respekt
@@ -1289,4 +1290,46 @@ tum [adv]
 3. na to
 4. następnie
 
+recumbō, ere, cubuī [verb] [III]
+1. kłaść się, leżeć
+2. opadać, uspokajać się
 
+quiescō, ere, quiēvī, quiētum [verb] [III]
+1. odpoczywać we śnie, zapadać w sen
+2. zażywać odpoczynku, (o rzeczach) nie być używanym, (o ziemi) nie być uprawianym, spoczywać
+3. być bezczynnym
+
+diēs, ēī [noun] [V] [m, f]
+1. dzień
+
+triennium, iī [noun] [II] [n]
+1. trzy lata, trzylecie
+
+vīvō, ere, vicī, victum [verb] [III]
+1. być żywym, pozostawać przy życiu
+2. spędzać życie (na czymś, na kimś)
+3. żyć nadal, przeżyć, ostać się
+
+membrum, ī [noun] [II] [n]
+1. część ciała, pl ciało, organ płciowy męski / żeński
+2. część, człon
+3. członek (grupy ludzi)
+4. gałąź (wiedzy)
+
+fera, ae [noun] [I] [f]
+1. dzikie zwierzę
+
+apportō (adp-), āre, āvī, ātum [verb] [I]
+1. przynosić, przewozić, dostarczać
+
+cōpia, ae [noun] [I] [f]
+1. wielka ilość, obfitość, mnóstwo
+2. ilość, liczba
+3. gromada, pl wojsko, oddziały
+
+medīdiānus, a, um [adj]
+1. południowy
+
+torreō, ēre, torruī, tostum [verb] [II]
+1. palić, przypiekać, suszyć
+2. dręczyć
