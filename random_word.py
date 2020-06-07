@@ -1,11 +1,7 @@
 import random
 import sys
 
-
-# todo option to skip words already asked
 # take only some portion of all words (random)
-# add flags for start / end
-# do not use latin as default dict
 # filter out lines starting with '#'
 
 
@@ -63,7 +59,7 @@ lines = [line.strip() for line in lines_raw if len(line.rstrip()) > 0]
 
 dict = parse_dict(lines, start, end)
 
-while (True):
+while (len(dict) > 0):
     word = random.choice(list(dict.keys()))
     base_form = word.split(' ')[0].replace(',', '')
     translation = dict[word]
@@ -75,4 +71,9 @@ while (True):
     for line in translation:
         print(line)
 
-    input("")
+    feedback = input("")
+    if feedback == 'x':
+    	del dict[word]
+    	print('')
+
+print('current dictionary is empty')
