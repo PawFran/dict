@@ -3,6 +3,9 @@ import sys
 
 # take only some portion of all words (random)
 # filter out lines starting with '#'
+# only certain part of speech ex. conj
+# only certain declension or conjugation
+# advanced mode - one must respond to a sequence of questions: what part of speech is it and so on. but what if there's many options ?
 
 
 def parse_dict(lines, start, end):
