@@ -123,12 +123,6 @@ imbellia, ae [noun] [I] [f]
 exiguum, ī [noun] [II] [n]
 1. mała ilość, mało
 
-superō, āre, āvī, ātum [verb] [I]
-1. przebywać, pokonywać (przeszkodę), mijać
-2. przewyższać
-3. zwyciężać
-4. przetrwać
-
 hostis, is [noun] [III mixed] [m, f]
 1. obcy przybysz
 2. wróg
@@ -189,9 +183,6 @@ procul [adv]
 conspiciō, ere, spexī, spectum [verb] [III]
 1. patrzeć, spostrzegać
 
-tum [adv]
-1. wtedy
-
 alter, a, um [adj]
 1. drugi, inny, następny
 
@@ -241,23 +232,12 @@ attingō, ere, tigī, tāctum [verb] [III]
 3. graniczyć (z czymś)
 4. powierzchownie studiować (coś)
 
-corpus, oris [noun] [III consonant] [n]
-1. ciało
-2. zwłoki
-3. mięso
-4. tułów
-5. treść
-
 mens, tis [noun] [III mixed] [f]
 1. umysł, rozum, myśl
 2. rozsądek
 
 veniō, īre, vēnī, ventum [verb] [IV]
 1. zbliżać się, przybywać
-
-mortuus, a, um [adj]
-1. martwy, nieprzytomny
-2. miniony
 
 itaque [adv]
 1. tak więc, zatem
@@ -900,10 +880,6 @@ consilium, iī [noun] [II] [n]
 2. sugestia
 3. ciało obradujące
 
-initium, iī [noun] [II] [n]
-1. początek
-2. geneza
-
 initio [adv] 
 1. na początku
 
@@ -956,11 +932,6 @@ officium, iī [noun] [II] [n]
 4. praca
 5. stanowisko
 
-maneō, ēre, sī, sum [verb] [II]
-1. pozostawać na tym samym miejscu
-2. kwaterować
-3. czekać
-
 vēnātiō, ōnis [noun] [III consonant] [f]
 1. polowanie
 2. zwierzyna, zdobycz
@@ -982,6 +953,7 @@ corpus, oris [noun] [III consonant] [n]
 2. zwłoki
 3. mięso
 4. tułów
+5. treść
 
 magnitūdō, inis [noun] [III consonant] [f]
 1. wielkość
@@ -1282,12 +1254,6 @@ cruor, ōris [noun] [III consonant] [m]
 
 tunc [adv]
 1. = tum
-
-tum [adv]
-1. wtedy
-2. w takim wypadku
-3. na to
-4. następnie
 
 recumbō, ere, cubuī [verb] [III]
 1. kłaść się, leżeć
