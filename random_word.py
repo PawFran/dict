@@ -80,6 +80,8 @@ while (len(dict) > 0):
     	del dict[word]
     	print('')
     if 'c' in feedback:
+    	print('')
     	print('there are {} words left in current dict'.format(len(dict)))
+    	print('')
 
 print('current dictionary is empty')
