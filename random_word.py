@@ -6,6 +6,7 @@ import sys
 # only certain part of speech ex. conj
 # only certain declension or conjugation
 # advanced mode - one must respond to a sequence of questions: what part of speech is it and so on. but what if there's many options ?
+# possibility to count how many words there are still in dictionary - ex by typing c after word
 
 
 def parse_dict(lines, start, end):
@@ -75,8 +76,10 @@ while (len(dict) > 0):
         print(line)
 
     feedback = input("")
-    if feedback == 'x':
+    if 'x' in feedback:
     	del dict[word]
     	print('')
+    if 'c' in feedback:
+    	print('there are {} words left in current dict'.format(len(dict)))
 
 print('current dictionary is empty')
