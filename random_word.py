@@ -2,6 +2,7 @@ import random
 import sys
 
 # take only some portion of all words (random)
+# feedback from user good/bad answer and modifying probabilities of some words based on it (difficult words more often displayed) - maybe some ml algorithm aiming at scoring points giving user words he cannot translate ?
 # filter out lines starting with '#'
 # only certain part of speech ex. conj
 # only certain declension or conjugation
@@ -80,7 +81,6 @@ while (len(dict) > 0):
     	del dict[word]
     	print('')
     if 'c' in feedback:
-    	print('')
     	print('there are {} words left in current dict'.format(len(dict)))
     	print('')
 
