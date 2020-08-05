@@ -1,10 +1,11 @@
 import json
 import random
 import sys
+from shortcuts import short
 
 # todo change distribution during working - ex. base on correct / wrong answers or on what was sampled before 
 # todo remove nom singularis
-# todo 'x' in feedback
+# todo 'x' in feedback / or option remove correct
 # todo dativus singularis -> dat sing etc
 
 def equals_modulo_case_and_unicode(str1, str2):
@@ -35,7 +36,7 @@ while(len(dec) > 0):
 	number = random.choice(list(dec[base_word][declension_number][genre].keys()))
 	case = random.choice(list(dec[base_word][declension_number][genre][number].keys()))
 
-	print('{}: {} {}'.format(base_word, case, number)) 
+	print('{}: {} {}'.format(base_word, short(case), short(number))) 
 	answer = input("")
 	correct_answer = dec[base_word][declension_number][genre][number][case]
 	if equals_modulo_case_and_unicode(correct_answer, answer):

@@ -2,6 +2,7 @@ import json
 import random
 import sys
 import copy
+from shortcuts import short
 
 # todo accent in verb dict
 # not all combinations are possible - ex. for imperativus. how to handle it ?
@@ -94,7 +95,7 @@ while(True):
 	number = random.choice(list(con[base_word][conjugation_number][mood][tense][voice].keys()))
 	person = random.choice(list(con[base_word][conjugation_number][mood][tense][voice][number].keys()))
 
-	print('{}: {} {} {} {} {} person'.format(base_word, mood, tense, voice, number, person))
+	print('{}: {} {} {} {} {} person'.format(base_word, short(mood), short(tense), short(voice), short(number), short(person)))
 	answer = input("")
 	correct_answer = con[base_word][conjugation_number][mood][tense][voice][number][person]
 	if equals_modulo_case_and_unicode(correct_answer, answer):
