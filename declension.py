@@ -4,6 +4,8 @@ import sys
 
 # todo change distribution during working - ex. base on correct / wrong answers or on what was sampled before 
 # todo remove nom singularis
+# todo 'x' in feedback
+# todo dativus singularis -> dat sing etc
 
 def equals_modulo_case_and_unicode(str1, str2):
 	def replace_unicode(s):
@@ -26,7 +28,7 @@ if len(declensions_to_include) == 0:
 else:
 	dec = {base_word: dec_raw[base_word] for base_word in dec_raw.keys() if weak_contains(declensions_to_include, list(dec_raw[base_word].keys())[0])}
 
-while(True):
+while(len(dec) > 0):
 	base_word = random.choice(list(dec.keys()))
 	declension_number = random.choice(list(dec[base_word]))
 	genre = random.choice(list(dec[base_word][declension_number]))
@@ -38,6 +40,26 @@ while(True):
 	correct_answer = dec[base_word][declension_number][genre][number][case]
 	if equals_modulo_case_and_unicode(correct_answer, answer):
 		print("correct")
+		print('')
 	else:
 		print("wrong. correct answer is {}".format(correct_answer))
-	input("")
+		print('')
+
+# 	feedback = input("")
+# 	if 'x' in feedback:
+# 		del dec[base_word][declension_number][genre][number][case]
+# 		if dec[base_word][declension_number][genre][number] == None:
+# 			del dec[base_word][declension_number][genre][number]
+# 		if dec[base_word][declension_number][genre] == None:
+# 			del dec[base_word][declension_number][genre]
+# 		if dec[base_word][declension_number] == None:
+# 			del dec[base_word][declension_number]
+# 		if dec[base_word] == None:
+# 			del dec[base_word]
+# 		print('')
+# 	if 'c' in feedback:
+# 		print('there are {} words left in current dict'.format(len(dec)))
+# 		print(dec)
+# 		print('')
+
+print('current dictionary is empty. finishing program')
