@@ -693,9 +693,9 @@
           },
           "passivus": {
             "singularis": {
-              "first": "capti ero",
-              "second": "capti eris",
-              "third": "capti erit"
+              "first": "captus ero",
+              "second": "captus eris",
+              "third": "captus erit"
             },
             "pluralis": {
               "first": "capti erimus",
