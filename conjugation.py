@@ -86,7 +86,7 @@ if len(voices_to_include) > 0:
 							del con_with_voices_removed[base_word][con_number][mood][tense][voice]
 	con = con_with_voices_removed
 	
-while(True):
+while(con != {}):
 	base_word = random.choice(list(con.keys()))
 	conjugation_number = random.choice(list(con[base_word]))
 	mood = random.choice(list(con[base_word][conjugation_number]))
@@ -100,6 +100,24 @@ while(True):
 	correct_answer = con[base_word][conjugation_number][mood][tense][voice][number][person]
 	if equals_modulo_case_and_unicode(correct_answer, answer):
 		print("correct")
+		if '--repeat' not in args:
+			print('dict before deletion: {}'.format(con))
+			del con[base_word][conjugation_number][mood][tense][voice][number][person]
+			if con[base_word][conjugation_number][mood][tense][voice][number] == {}:
+				del con[base_word][conjugation_number][mood][tense][voice][number]
+				if con[base_word][conjugation_number][mood][tense][voice] == {}:
+					del con[base_word][conjugation_number][mood][tense][voice]
+					if con[base_word][conjugation_number][mood][tense] == {}:
+						del con[base_word][conjugation_number][mood][tense]
+						if con[base_word][conjugation_number][mood] == {}:
+							del con[base_word][conjugation_number][mood]
+							if con[base_word][conjugation_number] == {}:
+								del con[base_word][conjugation_number]
+								if con[base_word] == {}:
+									del con[base_word]
+			print('dict after deletion: {}'.format(con))
 	else:
 		print("wrong. correct answer is {}".format(correct_answer))
-	input("")
+	print('')
+
+print('dictionary is empty')
