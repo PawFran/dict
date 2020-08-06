@@ -146,4 +146,4 @@ while(con != {}):
 	print('')
 
 score = correct_cnt / (correct_cnt + wrong_cnt) * 100
-print('dictionary is empty. score is {}%'.format(score))
+print('dictionary is empty. score is {}%'.format(round(score, 2)))

@@ -277,9 +277,9 @@
           },
           "passivus": {
             "singularis": {
-              "first": "moniti sum",
-              "second": "moniti es",
-              "third": "moniti est"
+              "first": "monitus sum",
+              "second": "monitus es",
+              "third": "monitus est"
             },
             "pluralis": {
               "first": "moniti sumus",
