@@ -7,6 +7,9 @@ from shortcuts import short
 # todo accent in verb dict
 # not all combinations are possible - ex. for imperativus. how to handle it ?
 # map different inputs ex. both 'activus' and 'active' should be understood
+# todo count remaining words (lowest level) if repeat is not chosen. print score after all
+# todo unit tests for counting
+# todo use random choise to estimate number of words
 
 # todo method nth level key contains
 
@@ -85,6 +88,23 @@ if len(voices_to_include) > 0:
 						if voice not in voices_to_include:
 							del con_with_voices_removed[base_word][con_number][mood][tense][voice]
 	con = con_with_voices_removed
+
+
+def count_all_entries(d):
+	cnt_temp = 0
+	for word in list(d.keys()):
+	    for conjugation in list(d[word].keys()):
+	    	for mood in list(d[word][conjugation].keys()):
+	    		for tense in list(d[word][conjugation][mood].keys()):
+	    			for voice in list(d[word][conjugation][mood][tense].keys()):
+	    				for number in list(d[word][conjugation][mood][tense][voice].keys()):
+	    					for person in list(d[word][conjugation][mood][tense][voice][number].keys()):
+	    						cnt_temp = cnt_temp + 1
+	return cnt_temp
+
+
+print('there\'s {} words in dict'.format(count_all_entries(con)))
+
 	
 while(con != {}):
 	base_word = random.choice(list(con.keys()))
@@ -99,7 +119,6 @@ while(con != {}):
 	answer = input("")
 	correct_answer = con[base_word][conjugation_number][mood][tense][voice][number][person]
 	if equals_modulo_case_and_unicode(correct_answer, answer):
-		print("correct")
 		if '--repeat' not in args:
 			del con[base_word][conjugation_number][mood][tense][voice][number][person]
 			if con[base_word][conjugation_number][mood][tense][voice][number] == {}:
@@ -114,6 +133,10 @@ while(con != {}):
 								del con[base_word][conjugation_number]
 								if con[base_word] == {}:
 									del con[base_word]
+
+			print("correct ({} left)".format(count_all_entries(con)))
+		else:
+			print("correct")
 	else:
 		print("wrong. correct answer is {}".format(correct_answer))
 	print('')
