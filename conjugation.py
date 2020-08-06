@@ -105,6 +105,8 @@ def count_all_entries(d):
 
 print('there\'s {} words in dict'.format(count_all_entries(con)))
 
+correct_cnt = 0
+wrong_cnt = 0
 	
 while(con != {}):
 	base_word = random.choice(list(con.keys()))
@@ -119,6 +121,7 @@ while(con != {}):
 	answer = input("")
 	correct_answer = con[base_word][conjugation_number][mood][tense][voice][number][person]
 	if equals_modulo_case_and_unicode(correct_answer, answer):
+		correct_cnt = correct_cnt + 1
 		if '--repeat' not in args:
 			del con[base_word][conjugation_number][mood][tense][voice][number][person]
 			if con[base_word][conjugation_number][mood][tense][voice][number] == {}:
@@ -138,7 +141,9 @@ while(con != {}):
 		else:
 			print("correct")
 	else:
+		wrong_cnt = wrong_cnt + 1
 		print("wrong. correct answer is {}".format(correct_answer))
 	print('')
 
-print('dictionary is empty')
+score = correct_cnt / (correct_cnt + wrong_cnt) * 100
+print('dictionary is empty. score is {}%'.format(score))
