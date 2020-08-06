@@ -101,7 +101,6 @@ while(con != {}):
 	if equals_modulo_case_and_unicode(correct_answer, answer):
 		print("correct")
 		if '--repeat' not in args:
-			print('dict before deletion: {}'.format(con))
 			del con[base_word][conjugation_number][mood][tense][voice][number][person]
 			if con[base_word][conjugation_number][mood][tense][voice][number] == {}:
 				del con[base_word][conjugation_number][mood][tense][voice][number]
@@ -115,7 +114,6 @@ while(con != {}):
 								del con[base_word][conjugation_number]
 								if con[base_word] == {}:
 									del con[base_word]
-			print('dict after deletion: {}'.format(con))
 	else:
 		print("wrong. correct answer is {}".format(correct_answer))
 	print('')
