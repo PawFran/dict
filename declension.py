@@ -7,6 +7,7 @@ from shortcuts import short
 # todo remove nom singularis
 # todo 'x' in feedback / or option remove correct
 # todo dativus singularis -> dat sing etc
+# todo during comparison replace multiple white letters with one
 
 def equals_modulo_case_and_unicode(str1, str2):
 	def replace_unicode(s):

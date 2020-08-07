@@ -10,6 +10,7 @@ from shortcuts import short
 # todo count remaining words (lowest level) if repeat is not chosen. print score after all
 # todo unit tests for counting
 # todo use random choise to estimate number of words
+# todo during comparison replace multiple white letters with one
 
 # todo method nth level key contains
 
