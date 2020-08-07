@@ -1,0 +1,10 @@
+rzeczownik:
+deklinacje I-V
+
+czasownik:
+ind praes act / pass
+ind imperf act / pass
+ind fut I act / pass
+ind perf act / pass
+ind plusquamperf act / pass
+ind fut II act / pass
