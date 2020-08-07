@@ -580,13 +580,6 @@ parens, ntis [noun] [III consonant] [m,f]
 2. twórca, wynalazca
 3. przodek (zazwyczaj pl.)
 
-atque, ac [conj]
-1. a nawet
-2. a właściwie
-3. a
-4. po czym
-5. a jednak
-
 appellō (adp-), ere, pulī, pulsum [verb] [III]
 1. przygnać, przyprowadzać
 2. lądować (z okrętem), przybijać (dokądś)
@@ -1198,10 +1191,7 @@ mītis, e [adj]
 4. lekki, znośny
 5. łaskawy, uprzejmy, pokojowy
 
-ac [conj]
-1. = atque
-
-atque [conj]
+atque, ac [conj]
 1. a nawet, a nadto
 2. i
 3. a
