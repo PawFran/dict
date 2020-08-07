@@ -8,6 +8,7 @@ import sys
 # only certain declension or conjugation
 # advanced mode - one must respond to a sequence of questions: what part of speech is it and so on. but what if there's many options ?
 # possibility to count how many words there are still in dictionary - ex by typing c after word
+# take answer - to be correct at least one word excluding brakcets must be good
 
 
 def parse_dict(lines, start, end):
