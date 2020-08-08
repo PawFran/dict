@@ -20,7 +20,10 @@ shortcuts = {
 		'dativus': 'dat',
 		'accusativus': 'acc',
 		'ablativus': 'abl',
-		'vocativus': 'voc'
+		'vocativus': 'voc',
+		'masculinum': 'masc',
+		'femininum': 'fem',
+		'neutrum': 'neutr'
 	}
 
 
