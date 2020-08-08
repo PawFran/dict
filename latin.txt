@@ -761,7 +761,7 @@ mortuus, a, um [adj]
 1. martwy, słaby, nieprzytomny
 2. miniony, skończony
 
-ex (prep + abl)
+ex [prep] + abl
 1. z, od, poza (oddzielanie)
 2. z, zgodnie z, według (okoliczności)
 3. od (momentu), zaraz po
@@ -785,7 +785,7 @@ oppugnātio, ōnis [noun] [III consonant] [f]
 1. atak, szturm
 
 parcō, ere, pepercī, parsum [verb] [III]
-1. oszczędząc, nie trwonić
+1. oszczędzać, nie trwonić
 2. poniechać, powstrzymywać się od używania
 3. powstrzymywać się od wyrządzania krzywdy
 
@@ -797,7 +797,7 @@ in [prep]
 extra [adv]
 1. na zewnątrz
 
-extra [prep]
+extra [prep] + acc
 1. poza, ponad
 2. z wyjątkiem
 
