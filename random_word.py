@@ -60,7 +60,9 @@ else:
     start = sys.argv[2]
     end = sys.argv[3]
 
-lines_raw = open(file_name, "r").readlines()
+file = open(file_name, "r")
+lines_raw = file.readlines()
+file.close()
 lines = [line.strip() for line in lines_raw if len(line.rstrip()) > 0]
 
 dict = parse_dict(lines, start, end)

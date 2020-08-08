@@ -24,6 +24,7 @@ declensions_to_include = sys.argv[1:]
 
 file = open("declension.json")
 dec_raw = json.load(file)
+file.close()
 
 if len(declensions_to_include) == 0:
 	dec = dec_raw

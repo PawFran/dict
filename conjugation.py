@@ -47,6 +47,7 @@ if len(args) > 0:
 
 file = open("conjugation.json")
 con_raw = json.load(file)
+file.close()
 
 con = con_raw
 con_with_conjugations_removed = {}
