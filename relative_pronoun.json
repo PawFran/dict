@@ -1,56 +1,50 @@
 {
 	"masculinum": {
 		"singularis": {
-			"nominativus": "",
-			"genetivus": "",
-			"dativus": "",
-			"accusativus": "",
-			"ablativus": "",
-			"vocativus": ""
+			"nominativus": "qui",
+			"genetivus": "cuius",
+			"dativus": "cui",
+			"accusativus": "quem",
+			"ablativus": "quo"
 		},
 		"pluralis": {
-			"nominativus": "",
-			"genetivus": "",
-			"dativus": "",
-			"accusativus": "",
-			"ablativus": "",
-			"vocativus": ""
+			"nominativus": "qui",
+			"genetivus": "quorum",
+			"dativus": "quibus",
+			"accusativus": "quos",
+			"ablativus": "quibus"
 		}
 	},
 	"femininum": {
 		"singularis": {
-			"nominativus": "",
-			"genetivus": "",
-			"dativus": "",
-			"accusativus": "",
-			"ablativus": "",
-			"vocativus": ""
+			"nominativus": "quae",
+			"genetivus": "cuius",
+			"dativus": "cui",
+			"accusativus": "quam",
+			"ablativus": "qua"
 		},
 		"pluralis": {
-			"nominativus": "",
-			"genetivus": "",
-			"dativus": "",
-			"accusativus": "",
-			"ablativus": "",
-			"vocativus": ""
+			"nominativus": "quae",
+			"genetivus": "quarum",
+			"dativus": "quibus",
+			"accusativus": "quas",
+			"ablativus": "quibus"
 		}
 	},
 	"neutrum": {
 		"singularis": {
-			"nominativus": "",
-			"genetivus": "",
-			"dativus": "",
-			"accusativus": "",
-			"ablativus": "",
-			"vocativus": ""
+			"nominativus": "quod",
+			"genetivus": "cuius",
+			"dativus": "cui",
+			"accusativus": "quod",
+			"ablativus": "quo"
 		},
 		"pluralis": {
-			"nominativus": "",
-			"genetivus": "",
-			"dativus": "",
-			"accusativus": "",
-			"ablativus": "",
-			"vocativus": ""
+			"nominativus": "quae",
+			"genetivus": "quorum",
+			"dativus": "quibus",
+			"accusativus": "quae",
+			"ablativus": "quibus"
 		}
 	}
 }
