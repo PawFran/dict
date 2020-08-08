@@ -3,16 +3,21 @@ import random
 import sys
 from shortcuts import short
 
-args = sys.argv[1:]
-if len(args) == 0:
-	args = ['demonstrative']
-
-file = open("{}_pronoun.json".format(args[0]))
-pronouns = json.load(file)
+file = open("pronoun.json")
+pronouns_raw = json.load(file)
 file.close()
 
-print('{} pronoun'.format(args[0]))
-print('')
+to_include = sys.argv[1:]
+if len(to_include) == 0:
+	to_include = ['is', 'hic', 'ille', 'idem', 'qui', 'nullus']
+
+
+def only_selected_pronouns(to_include_list):
+	pronouns = {}
+	for k in pronouns_raw.keys():
+		if k in to_include_list:
+			pronouns[k] = pronouns_raw[k]
+	return pronouns
 
 
 def count_all_entries(d):
@@ -24,6 +29,7 @@ def count_all_entries(d):
 					cnt_temp = cnt_temp + 1
 	return cnt_temp
 
+pronouns = only_selected_pronouns(to_include)
 
 cnt = count_all_entries(pronouns)
 cnt_correct = 0
@@ -40,18 +46,15 @@ while(len(pronouns) > 0):
 	correct_answer = pronouns[base_word][genre][number][case]
 
 	if answer == correct_answer:
-		if '--repeat' not in args:
-			del pronouns[base_word][genre][number][case]
-			if pronouns[base_word][genre][number] == {}:
-				del pronouns[base_word][genre][number]
-				if pronouns[base_word][genre] == {}:
-					del pronouns[base_word][genre]
-					if pronouns[base_word] == {}:
-						del pronouns[base_word]
-			print('correct (left {})'.format(count_all_entries(pronouns)))
-			cnt_correct = cnt_correct + 1
-		else:
-			print('correct')
+		del pronouns[base_word][genre][number][case]
+		if pronouns[base_word][genre][number] == {}:
+			del pronouns[base_word][genre][number]
+			if pronouns[base_word][genre] == {}:
+				del pronouns[base_word][genre]
+				if pronouns[base_word] == {}:
+					del pronouns[base_word]
+		print('correct (left {})'.format(count_all_entries(pronouns)))
+		cnt_correct = cnt_correct + 1
 	else:
 		print('wrong. correct answer is \'{}\''.format(correct_answer))
 		cnt_wrong = cnt_wrong + 1

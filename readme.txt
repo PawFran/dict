@@ -15,9 +15,8 @@
 # --repeat tells that after successfull answer entry should not be deleted from the memory hence the same question will be asked again some other time
 
 # pronoun.py
-# python pronoun.py arg where arg may be demonstrative or relative or nullus
+# python pronoun.py arg where arg may be one of [is, hic, ille, idem, qui, nullus]
 # only first argument will be taken into account
-# default is demonstrative
 
 # count_words_in_dict.sh
 # one argument - file name - if none then latin.txt
