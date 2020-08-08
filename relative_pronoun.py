@@ -20,6 +20,8 @@ def count_all_entries(d):
 
 
 cnt = count_all_entries(pronouns)
+cnt_correct = 0
+cnt_wrong = 0
 
 while(len(pronouns) > 0):
 	genre = random.choice(list(pronouns.keys()))
@@ -38,10 +40,13 @@ while(len(pronouns) > 0):
 				if pronouns[genre] == {}:
 					del pronouns[genre]
 			print('correct (left {})'.format(count_all_entries(pronouns)))
+			cnt_correct = cnt_correct + 1
 		else:
 			print('correct')
 	else:
 		print('wrong. correct answer is \'{}\''.format(correct_answer))
+		cnt_wrong = cnt_wrong + 1
 	print('')
 
-print('current dict is empty')
+score = cnt_correct / (cnt_correct + cnt_wrong) * 100
+print('current dict is empty. score: {}%'.format(round(score, 2)))
