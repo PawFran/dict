@@ -18,6 +18,12 @@
 # python pronoun.py arg where arg may be one of [is, hic, ille, idem, qui, nullus]
 # only first argument will be taken into account
 
+# adjective.py
+# ex. python adjective.py -g positivus comparativus -d third -genre femininum neutrum
+# grade(s) must be included in [positivus, comparativus, superlativus], declension in [first, second, third] and genre in [masculinum, femininum, neutrum]
+# no matter if declension will be 'first' or 'second' - acerbus will be included
+# default is all possibilities
+
 # count_words_in_dict.sh
 # one argument - file name - if none then latin.txt
 
