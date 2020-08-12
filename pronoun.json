@@ -52,56 +52,50 @@
 	"is": {
 		"masculinum": {
 			"singularis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "is",
+				"genetivus": "eius",
+				"dativus": "ei",
+				"accusativus": "eum",
+				"ablativus": "eo"
 			},
 			"pluralis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "ei",
+				"genetivus": "eorum",
+				"dativus": "eis",
+				"accusativus": "eos",
+				"ablativus": "eis"
 			}
 		},
 		"femininum": {
 			"singularis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "ea",
+				"genetivus": "eius",
+				"dativus": "ei",
+				"accusativus": "eam",
+				"ablativus": "ea"
 			},
 			"pluralis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "eae",
+				"genetivus": "earum",
+				"dativus": "eis",
+				"accusativus": "eas",
+				"ablativus": "eis"
 			}
 		},
 		"neutrum": {
 			"singularis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "id",
+				"genetivus": "eius",
+				"dativus": "ei",
+				"accusativus": "id",
+				"ablativus": "eo"
 			},
 			"pluralis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "ea",
+				"genetivus": "eorum",
+				"dativus": "eis",
+				"accusativus": "ea",
+				"ablativus": "eis"
 			}
 		}
 	},
@@ -276,56 +270,50 @@
 	"nullus": {
 		"masculinum": {
 			"singularis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "nullus",
+				"genetivus": "nullius",
+				"dativus": "nulli",
+				"accusativus": "nullum",
+				"ablativus": "nullo"
 			},
 			"pluralis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "nulli",
+				"genetivus": "nullorum",
+				"dativus": "nullis",
+				"accusativus": "nullos",
+				"ablativus": "nullis"
 			}
 		},
 		"femininum": {
 			"singularis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "nulla",
+				"genetivus": "nullius",
+				"dativus": "nulli",
+				"accusativus": "nullam",
+				"ablativus": "nulla"
 			},
 			"pluralis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "nullae",
+				"genetivus": "nullarum",
+				"dativus": "nullis",
+				"accusativus": "nullas",
+				"ablativus": "nullis"
 			}
 		},
 		"neutrum": {
 			"singularis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "nullum",
+				"genetivus": "nullius",
+				"dativus": "nulli",
+				"accusativus": "nullum",
+				"ablativus": "nullo"
 			},
 			"pluralis": {
-				"nominativus": "",
-				"genetivus": "",
-				"dativus": "",
-				"accusativus": "",
-				"ablativus": "",
-				"vocativus": ""
+				"nominativus": "nulla",
+				"genetivus": "nullorum",
+				"dativus": "nullis",
+				"accusativus": "nulla",
+				"ablativus": "nullis"
 			}
 		}
 	}
