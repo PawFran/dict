@@ -33,6 +33,7 @@ positivus
 comparativus 
 	- zamiast końcówki gen sing dodaje się -ior, -ior, -ius
 	- odmiana wg III deklinacji spógłoskowej
+	- neutrum tylko w nom/acc/voc lp. ma -ius, w pozostałych -ior
 superlativus
 	- zamiast końcówki gen sing dodaje się issimus, a, um / rimus, a, um (przymiotniki na -er) / limus, a, um (przymiotniki na -lis)
 	- odmiana wg I / II deklinacji
