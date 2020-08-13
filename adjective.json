@@ -658,12 +658,12 @@
 				        "vocativus": "acerbius"
 					}, 
 					"pluralis": {
-						"nominativus": "",
-				        "genetivus": "",
-				        "dativus": "",
-				        "accusativus": "",
-				        "ablativus": "",
-				        "vocativus": ""
+						"nominativus": "acerbiora",
+				        "genetivus": "acerbiorum",
+				        "dativus": "acerbiosibus",
+				        "accusativus": "acerbiora",
+				        "ablativus": "acerbioribus",
+				        "vocativus": "acerbiora"
 					}
 				},
 				"superlativus": {
@@ -676,12 +676,12 @@
 				        "vocativus": "acerbissimum"
 					}, 
 					"pluralis": {
-						"nominativus": "",
-				        "genetivus": "",
-				        "dativus": "",
-				        "accusativus": "",
-				        "ablativus": "",
-				        "vocativus": ""
+						"nominativus": "acerbissima",
+				        "genetivus": "acerbissimorum",
+				        "dativus": "acerbissimis",
+				        "accusativus": "acerbissima",
+				        "ablativus": "acerbissimis",
+				        "vocativus": "acerbissima"
 					}
 				}
 			}
