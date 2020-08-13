@@ -19,8 +19,9 @@
 # only first argument will be taken into account
 
 # adjective.py
-# ex. python adjective.py -g positivus comparativus -d third -genre femininum neutrum
+# ex. python adjective.py -g positivus comparativus -d third -genre femininum neutrum -w acer facilis
 # grade(s) must be included in [positivus, comparativus, superlativus], declension in [first, second, third] and genre in [masculinum, femininum, neutrum]
+# word must be one of [acer, facilis, sapiens, acerbus]
 # no matter if declension will be 'first' or 'second' - acerbus will be included
 # default is all possibilities
 

@@ -23,7 +23,10 @@ shortcuts = {
 		'vocativus': 'voc',
 		'masculinum': 'masc',
 		'femininum': 'fem',
-		'neutrum': 'neutr'
+		'neutrum': 'neutr',
+		'positivus': 'pos',
+		'comparativus': 'comp',
+		'superlativus': 'sup'
 	}
 
 
