@@ -645,7 +645,7 @@ quoque [adv]
 1. w ten sam sposób
 2. także, ponadto
 
-exstruō, ere, uxī, uctum
+exstruō, ere, uxī, uctum [verb] [III]
 1. układać stos
 2. budować
 
