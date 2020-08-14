@@ -664,8 +664,6 @@ oppugnō, āre, āvī, ātum [verb] [I]
 situs, ūs [noun] [IV] [m]
 1. położenie
 2. struktura
-3. stagnacja
-4. pleśń
 
 aedēs (aedis), is [noun] [III mixed] [f]
 1. sing pokój, mieszkanie
@@ -676,7 +674,7 @@ praesidium, iī [noun] [II] [n]
 1. osłona
 2. wsparcie
 3. środek zaradczy
-4. eskortam załoga
+4. eskorta, załoga
 5. forteca
 6. pełnienie zadań garnizonowych
 
@@ -723,7 +721,7 @@ illustrō, āre, āvī, ātum [verb] [I]
 manus, ūs [noun] [IV] [f]
 1. ręka
 2. uderzenie
-3. włądza
+3. władza
 4. pismo
 
 factus, a, um [adj] 
