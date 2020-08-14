@@ -116,56 +116,56 @@
 			"neutrum": {
 				"positivus": {
 					"singularis": {
-						"nominativus": "",
-				        "genetivus": "",
-				        "dativus": "",
-				        "accusativus": "",
-				        "ablativus": "",
-				        "vocativus": ""
+						"nominativus": "acre",
+				        "genetivus": "acris",
+				        "dativus": "acri",
+				        "accusativus": "acre",
+				        "ablativus": "acri",
+				        "vocativus": "acre"
 					}, 
 					"pluralis": {
-						"nominativus": "",
-				        "genetivus": "",
-				        "dativus": "",
-				        "accusativus": "",
-				        "ablativus": "",
-				        "vocativus": ""
+						"nominativus": "acria",
+				        "genetivus": "acrium",
+				        "dativus": "acribus",
+				        "accusativus": "acria",
+				        "ablativus": "acribus",
+				        "vocativus": "acria"
 					}
 				},
 				"comparativus": {
 					"singularis": {
-						"nominativus": "",
-				        "genetivus": "",
-				        "dativus": "",
-				        "accusativus": "",
-				        "ablativus": "",
-				        "vocativus": ""
+						"nominativus": "acrius",
+				        "genetivus": "acrioris",
+				        "dativus": "acriori",
+				        "accusativus": "acrius",
+				        "ablativus": "acriori",
+				        "vocativus": "acrius"
 					}, 
 					"pluralis": {
-						"nominativus": "",
-				        "genetivus": "",
-				        "dativus": "",
-				        "accusativus": "",
-				        "ablativus": "",
-				        "vocativus": ""
+						"nominativus": "acriora",
+				        "genetivus": "acriorum",
+				        "dativus": "acrioribus",
+				        "accusativus": "acriora",
+				        "ablativus": "acrioribus",
+				        "vocativus": "acriora"
 					}
 				},
 				"superlativus": {
 					"singularis": {
-						"nominativus": "",
-				        "genetivus": "",
-				        "dativus": "",
-				        "accusativus": "",
-				        "ablativus": "",
-				        "vocativus": ""
+						"nominativus": "acerrimum",
+				        "genetivus": "acerrimi",
+				        "dativus": "acerrimo",
+				        "accusativus": "acerrimum",
+				        "ablativus": "acerrimo",
+				        "vocativus": "acerrimum"
 					}, 
 					"pluralis": {
-						"nominativus": "",
-				        "genetivus": "",
-				        "dativus": "",
-				        "accusativus": "",
-				        "ablativus": "",
-				        "vocativus": ""
+						"nominativus": "acerrima",
+				        "genetivus": "acerrimorum",
+				        "dativus": "acerrimis",
+				        "accusativus": "acerrima",
+				        "ablativus": "acerrimis",
+				        "vocativus": "acerrima"
 					}
 				}
 			}
