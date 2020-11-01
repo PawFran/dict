@@ -13,7 +13,7 @@ import sys
 # when taking answers be aware of situations like <word>, <second> (<third>)
 
 
-def parse_dict(lines, start, end):
+def parse_dict(lines, start=None, end=None):
     dict = {}
 
     current_key = None
@@ -67,6 +67,7 @@ if __name__ == '__main__':
     lines_raw = file.readlines()
     file.close()
     lines = [line.strip() for line in lines_raw if len(line.rstrip()) > 0]
+    print(lines)
 
     dict = parse_dict(lines, start, end)
 
