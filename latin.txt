@@ -560,10 +560,10 @@ famēs, is [noun] [III mixed] [f]
 1. głód
 2. żądza
 
-pānis, is [noun] [III consonant] [m]
+pānis, is [noun] [III consonant] [m] [exception]
 1. chleb (dosłownie i w przenośni)
 
-trādo, ere, idī, itum
+trādo, ere, didī, ditum [verb] [III]
 1. podawać, przekazywać, wręczać
 2. przedstawiać (kogoś komuś), relacjonować
 
@@ -620,7 +620,7 @@ marīta, ae [noun] [I] [f]
 marītī, ōtorum [noun] [II] [m] [pl]
 1. małżonkowie
 
-vir, ī [noun] [II] [m]
+vir, ī [noun] [II] [m] [exception]
 1. mężczyzna
 2. małżonek
 
