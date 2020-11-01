@@ -2,17 +2,13 @@ import json
 import random
 import sys
 from shortcuts import short
+from utils import equals_modulo_case_and_unicode
 
 # todo change distribution during working - ex. base on correct / wrong answers or on what was sampled before 
 # todo remove nom singularis
 # todo 'x' in feedback / or option remove correct
 # todo dativus singularis -> dat sing etc
 # todo during comparison replace multiple white letters with one
-
-def equals_modulo_case_and_unicode(str1, str2):
-	def replace_unicode(s):
-		return s.replace('ā', 'a').replace('ē', 'e').replace('ō', 'o').replace('ū', 'u').replace('ī', 'i')
-	return replace_unicode(str1.lower()) == replace_unicode(str2.lower())
 
 
 def weak_contains(lst, x):
